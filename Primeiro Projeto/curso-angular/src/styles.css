@@ -18,3 +18,9 @@ body {
 	padding: 2em;
 	margin-bottom: 1em;
 }
+
+.class h3 {
+    padding-top: 10px;
+    font-family: 'Lucida Sans Regular';
+    color: rgb(0, 130, 190);
+}
